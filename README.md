@@ -2,6 +2,8 @@
 This Repository consists of the Task given to scrape the data from website sahitya akademi awards
 and to perform the cleaning task
 TO PERFORM SCRAPING
+
+
 1.Install scrapy in your device
 ```sh
     pip install scrapy
@@ -33,4 +35,5 @@ TO PERFORM SCRAPING
 
 
 a)The code for scraping task is in the folder Spiders named Sahitya_akademei_spider
+
 b)the code for cleaning task is cleaning.py
