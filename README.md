@@ -42,6 +42,6 @@ TO PERFORM CLEANING
 
 
 
-a)The code for scraping task is in the folder Spiders named Sahitya_akademei_spider
+a)The code for scraping task is in the folder Spiders named Sahitya_akademi_spider
 
 b)the code for cleaning task is cleaning.py
