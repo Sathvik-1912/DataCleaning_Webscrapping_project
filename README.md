@@ -1,6 +1,8 @@
 # Factly_DataCleaningTask
 This Repository consists of the Task given to scrape the data from website sahitya akademi awards
 and to perform the cleaning task
+
+
 TO PERFORM SCRAPING
 
 
@@ -20,6 +22,12 @@ TO PERFORM SCRAPING
    scrapy crawl sahitya_akademi
 ```
 5. output will be saved in a file scapping.csv
+
+
+TO PERFORM CLEANING
+
+
+   
 6. after that craete an python file named as cleaning.py and i wrote the code which is essential
    to perform the task given and save it
 7.run the file using command
